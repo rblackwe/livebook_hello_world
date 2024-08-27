@@ -2,14 +2,6 @@
 
 ## Hello World
 
-[![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.usva.integration.web.elco.cloud/run?url=https%3A%2F%2Fraw.githubusercontent.com%2Felc-online%2Flivebook_playground%2Fmain%2Fhello_world%2Fhelloworld.livemd%3Ftoken%3DGHSAT0AAAAAACTBKNIGASFQ2UW3VPZRUXQGZWOAZXQ)
-
-
-* [Run in Livebook](https://livebook.usva.integration.web.elco.cloud/open/url)
-
-* https://github.com/numpy/numpy/blob/main/doc/source/_static/favicon/apple-touch-icon.png?raw=true
-* [raw](https://github.com/elc-online/livebook_playground/blob/main/hello_world_badge/helloworldbadge.livemd)
-* [raw 2](https://raw.githubusercontent.com/elc-online/livebook_playground/main/hello_world_badge/helloworldbadge.livemd)
 ```elixir
 "Hello World"
 ```
